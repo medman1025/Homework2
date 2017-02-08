@@ -1,0 +1,111 @@
+---
+title: "Homework2: Alan Jones"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+## Why did the authors take on this topic?
+
+The authors believe that the implementation of the electronic health record (EHR)
+
+presents great opportunities and challenges to medical staff and health 
+
+researchers.
+
+## What is the importance of the topic?
+
+The widespread and swift adoption of the EHR revolutionized the way patient care 
+
+is documented, but it also presented challenges for health record data consumers.
+
+Researchers that were reliant on the medical record as a source of data are 
+
+confronted with new capabilities of analyzation as well as data in altered 
+
+presentation formats and a different set of difficulties in accessing data.
+
+## What was the purpose of the article?
+
+The purpose was to identify some of the major opportunities and challenges 
+
+identified by a non-informatics nurse researcher when using data from the EHR, 
+
+while also discussing the implications EHR implementation has on nurse researcher 
+practice.
+
+## What are the key concepts and main points discussed?
+
+EHR is encouraged to improve quality, safety, and efficacy. These systems offer 
+
+the opportunity of capturing large data sets for analysis, and they have the 
+
+ability to provide nurse researchers with new tools to generate knowledge for the 
+science. EHR does, however, present significant challenges to consider ranging 
+
+from data security, methods of implementation, and differences in proprietary 
+
+systems. These systems are often written by non-nurse professionals who do not 
+
+fully understand the cognitive work of practice that EHR can provide. Facilities 
+
+still use a combination of paper records and EHR, which can create issues for 
+
+researchers. Unstructured data fields, such as free text notes and emails, can 
+
+create hidden data pockets. Privacy requirements can add administrative hurdles 
+
+and burdens that use time and resources. 
+
+## Do the authors offer up evidence to support their main arguments?
+
+They provide a lot of points to support their argument that, while EHR has 
+
+enormous potential, there are still a lot of concerns to consider in its research 
+implications and limitations.
+
+## How solid is the evidence?
+
+The evidence is interesting, although no quantitative data to support their 
+
+claims is listed in the article. The points made are logical, but there are not 
+
+necessarily a lot of references or data used and listed that support the 
+
+seemingly logical points of discussion.
+
+## Did the authors fulfill the purpose?
+
+The authors fulfilled their purpose of identifying major opportunities and 
+
+challenges when using data from an EHR. The purpose never explicitly stated that 
+
+there would be quantitative data and references, so the purpose of identifying 
+
+issues with EHR was achieved.
+
+## What are the implications of their findings?
+
+The implications are that, while EHR presents a lot of obvious advantages in 
+
+concern to organization, input, filing and analyzing, there are several 
+
+limitations to its use. The increasing volume of time-variant documentation in 
+
+structured fields presents the benefits of data volume and the ability to access 
+
+100% of the population. EHR data, however, still lack reliability resulting from 
+
+omissions and data entry workarounds, and pose privacy challenges.
+
+## Do you see any implications beyond the ones the authors discuss? If so, what are they?
+
+I also see the cost of setup and maintenance as an issue with EHR. HIPAA 
+
+violations are easier with EHR. The ability to simply copy and paste information 
+
+(such as assessment) is much easier to do with EHR.
